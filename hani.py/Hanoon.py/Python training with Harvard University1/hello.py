@@ -108,6 +108,47 @@ def main():
     print(f"x squared is {squared(x)}")
 
 main()
+
+"""
+SHORTS
+visual studio code for CS50
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 """
 To save changes in GitHub, type the command in the terminal.
 
