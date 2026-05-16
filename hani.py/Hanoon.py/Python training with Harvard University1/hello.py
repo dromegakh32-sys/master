@@ -135,8 +135,13 @@ example = rm hello.py
 
 mv = يسم لك بنسخ او اعادة تسمية ملف
 
-example =
+example1 = mv hello.py app.py (Change file name)
+                         ⬇
+         الاسم الجديد المراد التغيير اليه
 
+example2 = mv hello.py myfolder/  (Transfer file to folder)
+                            ⬇
+             اسم المجلد المراد النقل اليه
 
 
 
