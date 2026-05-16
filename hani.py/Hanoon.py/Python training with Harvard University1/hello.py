@@ -145,7 +145,7 @@ example2 = mv hello.py myfolder/  (Transfer file to folder)
 
 
 
-
+cp = 
 
 
 
