@@ -125,11 +125,11 @@ example ls hello.py
 
 
 
+rm = يستخدم لحذف ملف او مجلد
 
-
-
-
-
+example rm hello.py
+            ⬇
+اسم المجلد المراد حذفه
 
 
 
