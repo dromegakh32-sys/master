@@ -157,7 +157,11 @@ example2 =  cp hello.py myfolder/
       📁 نسخ ملف داخل مجلد
 
 
-      
+mkdir = يسمح لك لانشاء دليل وهو مجلد
+
+example = mkdir projects
+               ⬇
+         ينشئ مجلد اسمه (projects)
 
 
 
