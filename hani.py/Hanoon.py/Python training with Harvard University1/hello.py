@@ -164,10 +164,16 @@ example = mkdir projects
          ينشئ مجلد اسمه (projects)
 
 
+rmdir = يسمح بحذف ملف شرط ان يكون فارغ
+
+example = rmdir test
+                ⬇
+ يحذف ملف اسمه (test) شرط ان يكون فارغ
 
 
+clear = يمسح الاشياء الموجودة داخل نافذة الترمنال فقط ويكت فقط بدون اي اضافة
 
-
+Information
 
 
 
