@@ -112,7 +112,9 @@ main()
 """
 SHORTS
 visual studio code for CS50
-"""
+
+تعليمات تكتب في الترمنال
+
 
 
 
