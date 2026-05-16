@@ -119,7 +119,7 @@ $=تعني في الترمنال اكتب امرك هنا
 
 ls(list)= يسمح لك بسرد كافة الملفات في مجلدك الحالي
 
-example ls hello.py
+example = ls hello.py
             ⬇
       اسم المجلد
 
@@ -127,14 +127,15 @@ example ls hello.py
 
 rm = يستخدم لحذف ملف او مجلد
 
-example rm hello.py
+example = rm hello.py
             ⬇
 اسم المجلد المراد حذفه
 
 
 
+mv = يسم لك بنسخ او اعادة تسمية ملف
 
-
+example =
 
 
 
