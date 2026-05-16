@@ -113,7 +113,13 @@ main()
 SHORTS
 visual studio code for CS50
 
-تعليمات تكتب في الترمنال
+Codes to be written in the terminal
+
+$=تعني في الترمنال اكتب امرك هنا
+
+ls(list)= يسمح لك بسرد كافة الملفات في مجلدك الحالي
+
+example 
 
 
 
