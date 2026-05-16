@@ -145,13 +145,19 @@ example2 = mv hello.py myfolder/  (Transfer file to folder)
 
 
 
-cp = 
+cp = يسمحلك بنسخ ملف
 
 
+example = cp hello.py copy.py
+                 ⬇
+ينسخ الملف (hello.py) ويصنع نسخة اسمها(copy.py)
+
+example2 =  cp hello.py myfolder/
+                   ⬇
+      📁 نسخ ملف داخل مجلد
 
 
-
-
+      
 
 
 
