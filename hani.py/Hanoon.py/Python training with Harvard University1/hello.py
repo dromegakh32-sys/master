@@ -250,9 +250,8 @@ else:
     print("x is equal to y")
 
 
-
-# نفس الكود باستخدام or اذا كنا نهتمين بمعرفة اذا ما كانت القيميتين متساويتين
-
+# نفس الكود باستخدام (or)اذا كنا نهتمين بمعرفة اذا ما كانت القيميتين متساويتين و بطرقة ابسط من الاول و الثاني
+# The same code using OR if we are interested in knowing whether the two values ​​are equal, and in a simpler way than the first and second.
 x = int(input("What's x? "))
 y = int(input("What's y? "))
 
