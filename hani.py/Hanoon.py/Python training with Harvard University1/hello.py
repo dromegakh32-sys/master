@@ -205,6 +205,22 @@ It means equal (to compare two values).
 It means not equal
 
 
+جميعها تكتب بعد if
+All of them are written after "if".
+"""
+#عمل كود باستخدام if و الرموز الشرطية
+#Create code using if and conditional characters
+
+x = int(input("What's x? "))
+y = int(input("What's y? "))
+
+if x < y:
+    print("x is less than y")
+if x > y:
+    print("x is greater than y")
+if x == y:
+    print("x is equal to y")
+
 
 
 
