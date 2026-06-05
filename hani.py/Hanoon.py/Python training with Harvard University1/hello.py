@@ -219,27 +219,14 @@ It means multiplying numbers
 10 /
 تعني قسمة الارقام
 Dividing numbers means
-🟢
-11 %
+🔴
+11 % = باقي القسمة.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 جميعها تكتب بعد if
 All of them are written after "if".
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 """
 #عمل كود باستخدام if و الرموز الشرطية
 #Create code using if and conditional characters
