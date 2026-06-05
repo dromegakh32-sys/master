@@ -210,6 +210,29 @@ The plural means
 🟢
 8 -
 تعني الطرح
+This symbol means subtraction.
+🟢
+9 *
+تعني ضرب الارقام
+It means multiplying numbers
+🟢
+10 /
+تعني قسمة الارقام
+Dividing numbers means
+🟢
+11 %
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
