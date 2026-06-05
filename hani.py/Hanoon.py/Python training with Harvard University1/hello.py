@@ -274,6 +274,12 @@ else:
 
 
 
+
+
+
+
+
+
 """
 الفرق بين if elif else
 The difference between if, elif, else
@@ -284,6 +290,8 @@ The difference between if, elif, else
 🟥else: إذا كل الشروط غلط نفّذ هذا
 
 🟢 تذكّر: or = "أو".
+
+🟢 تذكّر: and = "و". يجب أن تكون جميع الشروط صحيحة.
 """
 
 
