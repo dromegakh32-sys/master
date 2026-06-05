@@ -261,16 +261,6 @@ else:
     print("x is equal to y")
 
 
-"""
-الفرق بين if elif else
-The difference between if, elif, else
-🟦if: إذا الشرط صحيح ينفذ الأمر
-
-🟨elif: إذا الأول غلط جرّب شرط ثاني
-
-🟥else: إذا كل الشروط غلط نفّذ هذا
-"""
-
 # نفس الكود باستخدام "!=" و بطريقة ابسط
 # The same code using "!=ط but in a simpler way
 
@@ -284,7 +274,17 @@ else:
 
 
 
+"""
+الفرق بين if elif else
+The difference between if, elif, else
+🟦if: إذا الشرط صحيح ينفذ الأمر
 
+🟨elif: إذا الأول غلط جرّب شرط ثاني
+
+🟥else: إذا كل الشروط غلط نفّذ هذا
+
+🟢 تذكّر: or = "أو".
+"""
 
 
 
