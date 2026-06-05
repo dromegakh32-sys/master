@@ -329,6 +329,20 @@ else:
 
 
 
+# كود يبين اذا كان الرقم زوجي ام فردي
+# Code that shows whether the number is even or odd
+x = int(input("What's x? "))
+
+if x % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+
+
+
+
+
 
 
 
