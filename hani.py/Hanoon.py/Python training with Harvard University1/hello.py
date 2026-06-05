@@ -354,10 +354,24 @@ def is_even(n):
         return False
 
 
-# دالة match= اعطني تغريف بسيط لي ماتش3:43 PMClaude responded: match هي جملة في Python تقارن قيمة متغير مع عدة حالات محددة، وتنفذ الكود المناسب عند أول تطابق.match هي جملة في Python تقارن قيمة متغير مع عدة حالات محددة، وتنفذ الكود المناسب عند أول تطابق.
+# دالة match= "match هي جملة في Python تقارن قيمة متغير مع عدة حالات محددة، وتنفذ الكود المناسب عند أول تطابق."
 
+# 🟢 كود مثال لي دالة match
+# 🟢 Example code for the match function
 
+name = input("What's your name? ")
 
+match name:
+    case "Harry":
+        print("Gryffindor")
+    case "Hermione":
+        print("Gryffindor")
+    case "Ron":
+        print("Gryffindor")
+    case "Draco":
+        print("Slytherin")
+    case _:
+        print("Who?")
 
 
 
